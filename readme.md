@@ -2,6 +2,7 @@
 
 ## Needs
 
+- MATLAB
 - QETLAB-0.9
 - cvx
 
