@@ -1,3 +1,5 @@
 QETLAB-0.9/
 terms/*
 results/*
+!/terms/.gitkeep
+!/results/.gitkeep
