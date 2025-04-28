@@ -7,4 +7,4 @@
 
 ## Entry point
 
-- run_psar_of_comb_form_unitary_with_GTO_basis_3
+- universal_unitary_inverse/run_psar_of_comb_form_unitary_with_GTO_basis_3
